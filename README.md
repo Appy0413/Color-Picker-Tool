@@ -11,4 +11,4 @@ Usage-
 2.Use the color picker interface to select colors from different sources.
 3.Manage your color palette by adding, removing, or editing colors as needed.
 
-!
+
